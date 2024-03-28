@@ -1,0 +1,22 @@
+Nombre Base de Datos: bd_datasystem
+UTF : utf8_spanish_ci
+
+--------------------------------------
+Para entrar como Administrador
+
+usuario : admin
+contraseña : admin
+
+--------------------------------------
+
+Para entrar como Atencion al cliente
+
+usuario : atencionCliente
+contraseña : admin
+
+--------------------------------------
+
+Para entrar como Tecnico
+
+usuario : Tecnico
+contraseña : admin
