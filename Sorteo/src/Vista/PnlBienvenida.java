@@ -1,22 +1,10 @@
 package Vista;
 
-import javax.swing.Icon;
-import javax.swing.ImageIcon;
-
-
-
 public class PnlBienvenida extends javax.swing.JPanel {
 
     
     public PnlBienvenida() {
         initComponents();
-       
-        
-        //Cambia fondo del panel
-        ImageIcon wallpaper = new ImageIcon("src/img/Bienvenida.jpg");
-        Icon icono = new ImageIcon(wallpaper.getImage().getScaledInstance(600, 500, WIDTH));
-        jlWallpaper.setIcon(icono);
-        this.repaint();
     }
 
     @SuppressWarnings("unchecked")
